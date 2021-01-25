@@ -3,6 +3,8 @@ name: daily
 on:
   schedule:
   - cron: '* * * * *'
+  push:
+  - main
 
 
 jobs:
