@@ -1,0 +1,24 @@
+{
+  "name": "make-a-bed",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "notification": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GodMoonGoodman/make-a-bed.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GodMoonGoodman/make-a-bed/issues"
+  },
+  "homepage": "https://github.com/GodMoonGoodman/make-a-bed#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "dotenv": "^8.2.0"
+  }
+}
